@@ -1,3 +1,5 @@
 print("Products are getting added")
 
-name='Hi'
+name='Rohan'
+
+price=4000
